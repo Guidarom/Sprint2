@@ -10974,9 +10974,9 @@ textarea.form-control-lg {
   background-color: #5265e1;
   width: 80%;
   top: 40%;
-  height: 70%;
+  height: 60%;
   left: 20%;
-  border-radius: 150px 0 0 150px;
+  border-radius: 200px 0 0 200px;
   position: absolute;
   z-index: -3;
 }
